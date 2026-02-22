@@ -4,3 +4,4 @@
 - 📫 email para contato : gustavo.ch.silva@gmail.com
 - 🐱‍👤 iniciante no mundo da linguagem de programação
 - 😁 foco em desenvolvimento web
+- HTML, CSS, JavaScript
